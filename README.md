@@ -1,1 +1,1 @@
-# Kogane.CustomStandaloneInputModule
+# Kogane Custom Standalone Input Module
